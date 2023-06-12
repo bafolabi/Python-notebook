@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bafolabi
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on machine learning
 - 📫 How to reach me afolabi.rob@gmail.com
 
